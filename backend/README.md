@@ -15,9 +15,11 @@ Aprendendo o basico de NodeJS.
 ## 🤔 Como utilizar
 
 ```bash
+
 $ yarn install
 
 $ yarn dev
+
 ```
 
 ---
